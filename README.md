@@ -7,7 +7,7 @@ One way  to overcome the memory limitation of R is by avoiding the memory altoge
 
 
 ## Key Findings/ Summary of Project
-1) The memory limitation of R can be overcome by using Microsoft R Server and its high performance analytic functions (Fig_xx, Fig_yy)
+1) The memory limitation of R can be overcome by using Microsoft R Server and its high performance analytic functions
 2) A local computer installed with MRS is sufficient to  do analysis  on up to 150 million rows of data and it can be clustered in Azure  for bigger data.
 3) XDF file is efficient for processing bigdata than CSV.
 4) The top five carriers are Southwest, Delta, American, US Airways and United. Lowest are Virgin America,Hawaaiin, 
